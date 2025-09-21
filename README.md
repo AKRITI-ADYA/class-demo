@@ -1,10 +1,17 @@
 # class-demo
-this is my college repo
+this is my college repo..
+<br>
 AUTHOR - AKRITI ADYA
+<br>
 CLASS 10TH MARKS - 73%
+<br>
 CLASS 12TH MARKS  - 60%
+<br>
 BOARD NAME - CBSE
+<br>
 COLLEGE NAME- DY PATIL INTERNATIONAL UNIVERSITY AKRUDI
+<br>
 BRANCH - B.TECH CSE
+<br>
 3rd SEMESTER
 
